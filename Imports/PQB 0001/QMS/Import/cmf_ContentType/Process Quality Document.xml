@@ -3,7 +3,7 @@
     <Relationships>
       <Item type="cmf_ElementType" id="5298AA86782E4F2DAB3826C55BB3A11B" action="add">
         <default_permission type="Permission">FAC64B6CE47348458D6DEB1C68DC4724</default_permission>
-        <parent type="cmf_ElementType">C6F3C576ED374CB88533230F2A71BD9B</parent>
+        <parent type="cmf_ElementType">7A483FFCC0784FB195E9AE374862B59B</parent>
         <sort_order>640</sort_order>
         <name>PQD EMT</name>
         <Relationships>
@@ -72,7 +72,7 @@
       </Item>
       <Item type="cmf_ElementType" id="FEE16AB02CBB468D81FC1A257990D692" action="add">
         <default_permission type="Permission">FAC64B6CE47348458D6DEB1C68DC4724</default_permission>
-        <parent type="cmf_ElementType">C6F3C576ED374CB88533230F2A71BD9B</parent>
+        <parent type="cmf_ElementType">7A483FFCC0784FB195E9AE374862B59B</parent>
         <sort_order>256</sort_order>
         <name>PQD Tool</name>
         <Relationships>
