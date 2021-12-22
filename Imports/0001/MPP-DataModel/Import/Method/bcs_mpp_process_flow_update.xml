@@ -7,9 +7,9 @@
     </execution_allowed_to>
     <method_code><![CDATA[
 //Creator:SiLvZhou
-//Name:bcs_mpp_readMPPTemplateFile
+//Name:bcs_mpp_process_flow_update
 //Type: C#
-//Comments:v0.1 Developed By SiLvZhou @Broadway
+//Comments:v0.1 Developed By SiLv @Broadway
 //============================================================
 
 const string ERR_PREFIX = "Error[bcs_mpp_process_flow_update]:";
